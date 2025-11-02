@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+lightgbm
+pyyaml
+joblib
+shap
+python-dateutil
