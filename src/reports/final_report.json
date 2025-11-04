@@ -1,0 +1,14 @@
+{
+  "threshold": 0.30601905737672264,
+  "auc": 0.9839101830663615,
+  "precision": 0.9279661016949152,
+  "recall": 0.9605263157894737,
+  "f1": 0.9439655172413793,
+  "support_pos": 228,
+  "n_samples": 412,
+  "plots": {
+    "roc": "reports/holdin_roc.png",
+    "pr": "reports/holdin_pr.png",
+    "cm": "reports/holdin_cm.png"
+  }
+}

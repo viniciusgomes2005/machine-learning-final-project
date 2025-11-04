@@ -8,3 +8,4 @@ pyyaml
 joblib
 shap
 python-dateutil
+matplotlib
