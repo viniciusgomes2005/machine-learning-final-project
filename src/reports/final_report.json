@@ -7,8 +7,8 @@
   "support_pos": 238,
   "n_samples": 432,
   "plots": {
-    "roc": "reports\\holdin_roc.png",
-    "pr": "reports\\holdin_pr.png",
-    "cm": "reports\\holdin_cm.png"
+    "roc": "reports/holdin_roc.png",
+    "pr": "reports/holdin_pr.png",
+    "cm": "reports/holdin_cm.png"
   }
 }
